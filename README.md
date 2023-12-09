@@ -1,3 +1,3 @@
 # confirmletter
 
-Send comfirmation letters to those
+Send comfirmation letters 
