@@ -1,3 +1,5 @@
 # confirmletter
 
-Send comfirmation letters 
+Revise comfirmation letters 
+
+
