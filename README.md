@@ -1,5 +1,5 @@
 # confirmletter
 
-Revise comfirmation letters 
+Revise comfirmation letters
 
 
