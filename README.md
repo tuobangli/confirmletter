@@ -2,5 +2,5 @@
 
 Revise comfirmation letters
 
-Send
+Send comfirmation letters
 
