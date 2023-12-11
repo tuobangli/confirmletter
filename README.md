@@ -1,3 +1,3 @@
 # confirmletter
 
-Don't send evidence related to them
+Submit matrix dissimilarity, resend invitation 
