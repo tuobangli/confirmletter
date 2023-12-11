@@ -1,4 +1,3 @@
 # confirmletter
 
-continue send evidence
-
+Don't send evidence related to them
