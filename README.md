@@ -1,6 +1,3 @@
 # confirmletter
 
-Revise comfirmation letters
-
-Send comfirmation letters
-
+continue send evidence
