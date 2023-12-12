@@ -1,3 +1,3 @@
 # confirmletter
 
-Submit matrix dissimilarity with 5 professors, resend invitation 
+Submit matrix dissimilarity with professors, resend invitation according to the read today.
