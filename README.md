@@ -1,3 +1,3 @@
 # confirmletter
 
-matrix dissimilarity with professors, resend invitation according to the read today.
+matrix dissimilarity do that by myself and friends.
